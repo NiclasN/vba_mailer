@@ -1,7 +1,6 @@
 ﻿# VBA Mailer
  
-For internal use - TIL DE
-Created by NiclasN - 10/2023
+For internal use - TIL DE - Created by NiclasN - 10/2023
 
 ## Usage
 
